@@ -1,0 +1,59 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "get",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "tBClk4WlPPcAl7uMDCKeKcwcosk=",
+			"path": "github.com/cevaris/ordered_map",
+			"revision": "24c7dd0d3cec540a6894ca3d640d5a5bb2f19ca5",
+			"revisionTime": "2016-06-04T03:20:21Z"
+		},
+		{
+			"path": "github.com/cevaris/ordered_map.git",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "dvabztWVQX8f6oMLRyv4dLH+TGY=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "346938d642f2ec3594ed81d874461961cd0faa76",
+			"revisionTime": "2016-10-29T20:57:26Z"
+		},
+		{
+			"checksumSHA1": "veX5bpYOBjZZWMyWxXxys8EH9d8=",
+			"path": "github.com/gorilla/securecookie",
+			"revision": "fa5329f913702981df43dcb2a380bac429c810b5",
+			"revisionTime": "2016-10-03T05:16:01Z"
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "792786c7400a136282c1664665ae0a8db921c6c2",
+			"revisionTime": "2016-01-10T10:55:54Z"
+		},
+		{
+			"checksumSHA1": "hIEmcd7hIDqO/xWSp1rJJHd0TpE=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "18a02ba4a312f95da08ff4cfc0055750ce50ae9e",
+			"revisionTime": "2016-11-17T07:43:51Z"
+		},
+		{
+			"path": "go",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "MeXzn+OFdrU9/TGeMVz0GsRX+dM=",
+			"path": "gopkg.in/DATA-DOG/go-sqlmock.v1",
+			"revision": "d4cd2ca2ad1cc2130bba385aab072218f131f636",
+			"revisionTime": "2016-11-02T12:49:59Z"
+		},
+		{
+			"path": "https://github.com/cevaris/ordered_map.git",
+			"revision": ""
+		}
+	],
+	"rootPath": "stash.cqlcorp.net/go/juno"
+}
